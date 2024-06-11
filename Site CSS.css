@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:24px;
+}
+p {
+  color: red;
+  font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:14px;
+  font-weight:300
+}
+h3 { 
+color:#494949;
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size:20px;
+}
+
+h5 {
+	font-family:Webdings;
+	color:#FFBE00;
+}
+
+table {
+	border:none;
+	vertical-align:middle;
+	}
+	
+td {
+	vertical-align:middle;
+}
+
+h1 {
+	text-align:center;
+	}
+	
+button {
+	width: 200px;
+	font-size:16px
+}
+
+input {
+	width:200px;
+	font-size:16px
+}
+
+h2{
+	color:white;
+	font-size:14px;
+	font-weight:bold
+	
+	}
+	
+h4{
+	color:white;
+	font-size:12px;
+	font-weight:300;
+	
+	}
+image{
+	align-self:center	
+	
+}
